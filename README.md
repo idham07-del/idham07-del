@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, Saya Idham
 
-<!--
-**idham07-del/idham07-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muda dan bersemangat dalam dunia pembangunan perisian! Saya kini sedang mempelajari **GitHub** dan teknologi web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mengenai Saya
+- 🔭 Saya sedang mengusahakan: **Projek web pertama saya**
+- 🌱 Saya sedang belajar: **HTML, CSS, JavaScript & GitHub**
+- 💬 Tanya saya tentang: **Asas pengaturcaraan**
+- ⚡ Fakta menarik: **Suka belajar benda baharu setiap hari!**
+
+---
+
+### 🛠️ Kemahiran & Bahasa Pengaturcaraan
+- **Bahasa:** HTML, CSS, JavaScript
+- **Alatan (Tools):** Git, GitHub, VS Code
+
+---
+
+### 📬 Hubungi Saya
+[LinkedIn](https://linkedin.com) | [Email](mailto:idham@example.com)
